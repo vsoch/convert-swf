@@ -1,4 +1,4 @@
-# Swf to Mp4
+# swf to mp4
 
 This is a tiny Docker container to convert an old compressed flash (swf) to mp4.
 To build, you can do the following:
